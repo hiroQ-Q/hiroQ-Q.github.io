@@ -1,0 +1,34 @@
+Package: com.hiroq-q.jailbreakunlock
+Architecture: iphoneos-arm
+Version: 1.0-1+debug
+Section: Tweaks
+Maintainer: hiroQ_Q
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hiroq-q.jailbreakunlock_1.0-1+debug_iphoneos-arm.deb
+Size: 3234
+MD5sum: 54f750ef77ade801c8b1f13c009bd1d1
+SHA1: f3e3746b7e1a4075e9348b5ce59fa3e0274a23a6
+SHA256: d180d4b140e2be5a4242c2821018ac8b4097238fd8d38343a800714a44762ef5
+SHA512: c8fce346e7e02855b1c00b945711b30ea32152b9a6252bbead063d22471e746f2eaef50bf889368cd94e4d140b700d9329178a83d15b27201d008fe3d949baa6
+Description: It is a jailbreak avoidance of Mitsubishi UFJ Bank.
+Name: Jailbreak unlock
+Author: hiroQ_Q
+
+Package: com.hiroq-q.twitterfleetdelete
+Architecture: iphoneos-arm
+Version: 1.0-1+debug
+Section: Tweaks
+Maintainer: hiroQ_Q
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hiroq-q.twitterfleetdelete_1.0-1+debug_iphoneos-arm.deb
+Size: 3200
+MD5sum: 8cd024facb5f545020d802222d072fd4
+SHA1: 19e9db24fe155d6559ea52acfc050d6e96febfbb
+SHA256: 56a283523a712215d1172ba8b3c5f5ce5c8a320ccd2da2a1682d916b2a8c5199
+SHA512: c19337f7155cb3ac71ad8d93e17204ac0588055e116f0948b3e497ae0599c8c6db7b6ae2148cb5582427d1ecbc884bab952cf782c7de96243e88bc6c60e3b616
+Description: Delete Twitter Fleet
+Name: twitterFleetDelete
+Author: hiroQ_Q
+
