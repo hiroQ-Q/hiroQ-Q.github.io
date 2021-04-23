@@ -1,33 +1,33 @@
 Package: com.hiroq-q.jailbreakunlock
 Architecture: iphoneos-arm
-Version: 1.0-1+debug
+Version: 1.1
 Section: Tweaks
 Maintainer: hiroQ_Q
 Installed-Size: 136
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.hiroq-q.jailbreakunlock_1.0-1+debug_iphoneos-arm.deb
-Size: 3234
-MD5sum: 54f750ef77ade801c8b1f13c009bd1d1
-SHA1: f3e3746b7e1a4075e9348b5ce59fa3e0274a23a6
-SHA256: d180d4b140e2be5a4242c2821018ac8b4097238fd8d38343a800714a44762ef5
-SHA512: c8fce346e7e02855b1c00b945711b30ea32152b9a6252bbead063d22471e746f2eaef50bf889368cd94e4d140b700d9329178a83d15b27201d008fe3d949baa6
+Filename: ./debs/com.hiroq-q.jailbreakunlock_1.1_iphoneos-arm.deb
+Size: 3222
+MD5sum: 0486f5faa97f7e0ea0dda4c37f0edd9e
+SHA1: ea9acdd22d6ba737f8f10edc50dd3ff2c631ef57
+SHA256: fa12b46970fb2a73f3f2f4cb0db85e9e7661cf034e966bb8e97d636562e9f25c
+SHA512: d573857076c6168e951dd24b5285d2a029e2d3de8963d6023dbf6ce40d7bac407ec0903fc22b9d38f075935dab33698594d5d8a187897824e4883c17b1ac1d2f
 Description: It is a jailbreak avoidance of Mitsubishi UFJ Bank.
 Name: Jailbreak unlock
 Author: hiroQ_Q
 
 Package: com.hiroq-q.twitterfleetdelete
 Architecture: iphoneos-arm
-Version: 1.0-1+debug
+Version: 1.1
 Section: Tweaks
 Maintainer: hiroQ_Q
 Installed-Size: 136
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.hiroq-q.twitterfleetdelete_1.0-1+debug_iphoneos-arm.deb
-Size: 3200
-MD5sum: 8cd024facb5f545020d802222d072fd4
-SHA1: 19e9db24fe155d6559ea52acfc050d6e96febfbb
-SHA256: 56a283523a712215d1172ba8b3c5f5ce5c8a320ccd2da2a1682d916b2a8c5199
-SHA512: c19337f7155cb3ac71ad8d93e17204ac0588055e116f0948b3e497ae0599c8c6db7b6ae2148cb5582427d1ecbc884bab952cf782c7de96243e88bc6c60e3b616
+Filename: ./debs/com.hiroq-q.twitterfleetdelete_1.1_iphoneos-arm.deb
+Size: 3194
+MD5sum: 261be9f521e55c43cf3f469a16f8b50c
+SHA1: e3030c06fcf982bb5c8b756ec697a4819874b17c
+SHA256: 15e0965e01d0bb2975d21bfbd8611c1df870d145223c5b9dabf475308c103065
+SHA512: bfc7b08656e5222e13c5066ade90f0c1bb5159195105220c091e8cd663da13093e35eb96185a9931f625acd08c85af4112f209ee4a9cfcab6b505302a2373041
 Description: Delete Twitter Fleet
 Name: twitterFleetDelete
 Author: hiroQ_Q
