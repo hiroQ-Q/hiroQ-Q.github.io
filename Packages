@@ -1,0 +1,20 @@
+Package: com.hiroq-q.yt++
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: hiroQ_Q
+Installed-Size: 296
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.hiroq-q.yt++_1.0_iphoneos-arm.deb
+Size: 17392
+MD5sum: bf335de7377419c6ae4af4a8df7cc157
+SHA1: 60feca2af9c74e05ca46efc19f28c954617565f9
+SHA256: 8338d7b9764b9993528d2b5c0c08da1fb1dd99a173b81445398a051f1f137d2f
+SHA512: 42fa81fd56ba62605c3e3fae0311d66d6a24d964da4bbad9ad2ee38a519353807e044f30e15646039466b1eb54895a2cf4a2422206e289fbc7aa936206c4ec51
+Homepage: http://hiroqq.cf
+Description:  ADBlock,BackgroundPlayback
+Name: YT++
+Author: hiroQ_Q
+Icon: file:///Library/PreferenceBundles/YT.bundle/YT@2x.png
+Depiction: http://hiroqq.cf/YT++
+
